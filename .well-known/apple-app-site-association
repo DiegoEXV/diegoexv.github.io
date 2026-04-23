@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4ASKWT2U6M.cat.gencat.ctti.cvm.prev"],
+        "components": [
+          { "/": "/auth/callback*" }
+        ]
+      }
+    ]
+  }
+}
